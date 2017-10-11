@@ -1,7 +1,7 @@
 VueFiddle [WIP]
 ==================
 
-Online IDE for vue single file component.   https://vue.nice.team
+Online IDE for vue single file component.   https://vue.nice.team　(Google chrome only.)
 
 
 Versions
